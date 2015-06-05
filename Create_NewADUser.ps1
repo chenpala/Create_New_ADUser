@@ -1,7 +1,7 @@
 #requires -version 2
 <#
 .SYNOPSIS
-  To create an elevated user account in AD
+  To create an elevated user account in AD. Yes
 
 .DESCRIPTION
   This script will craete a new user based on intereactive unpiut from the user running the script. It will then set the user to a disabled state and email the relevant people for approvals. Once approved the user can then be enabled.
